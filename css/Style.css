@@ -1,0 +1,153 @@
+
+body {
+    text-align: center;
+
+    margin: 0px;
+}
+
+h1
+{
+    font-family: 'Amatic SC', cursive;
+    font-size: 90px;
+}
+
+h2
+{
+    font-size: 40px;
+    color: #0047AB;
+    font-family: 'Abril Fatface', cursive;
+}
+
+h3
+{
+    font-size: 35px;
+    font-family:  'Patua One', cursive;
+    color: #0047AB;
+}
+
+hr
+{
+    color: #0047AB;
+    border-style: dotted;
+    height: 0%;
+    width: 20%;
+    border-color:#C0C0C0;
+    border-bottom: none;
+    border-width: 10px;
+}
+p
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    font-size: 25px;
+    line-height: 2.6rem;
+        
+}
+a
+{
+    font-family:'Zen Maru Gothic', sans-serif ;
+    font-size: 25px;
+    padding: 20px;
+}
+.dp 
+{
+    padding: 20px;
+    width: 60%;
+}
+
+.Top
+{
+    background-color: #A2D2FF;
+    padding: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.Top-cloud
+{
+    position: absolute;
+    right: 500px;
+}
+
+.mountain-img
+{
+    width: 40%;
+    padding-bottom: 0%;
+}
+.Bottom-cloud
+{
+    position: absolute;
+
+}
+.profile
+{
+    
+    width: 29.5%;
+    margin: auto;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.skills
+{
+    padding: 40px;
+}
+.music-img
+{
+    width: 30%;
+    
+    padding: 35px;
+    float: left;
+    margin: 20px;
+}
+.drawing-img
+{
+    width: 30%;
+    padding: 35px;
+    float: right;
+    margin: 20px;
+}
+
+.skill-row
+{
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    padding: 40px;
+}
+
+.Bottom
+{
+    background-color: #A2D2FF;
+    padding: 40px;
+    margin-top: 30px;
+}
+
+.btn
+{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer
+{
+    font-size: 20px;
+    color:#0047AB;
+    
+}
+
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #0047AB;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #A2D2FF;
+    text-decoration: none;
+  }
